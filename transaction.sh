@@ -3,3 +3,9 @@
 eg: feature/automation - middle of work - added/committed  - complete/rollback
              STASH - feature/automation - changes into stash location - stash index - temporary storage location
     urgent request - hotfix change - live env - 1 hour 
+
+=============================================================================================================================
+soft reset  -> working directory and staging area    --> but bring commit from local-repo
+mixed reset -> working directory     --> but bring commit from  staging area and local-repo
+hard reset -> hard clean up on commits till particular point
+
